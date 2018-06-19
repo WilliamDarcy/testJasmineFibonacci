@@ -6,7 +6,7 @@ Exercice pour comprendre les tests unitaires avec **Jasmine**.
 
 Pour lancer le test :
 * cloner le projet
-* aller dans le dossier
+* aller dans le dossier nouvellement créé
 * npm install
 * lancement du programme: npm run fibo
 * lancement des tests unitaires : npm test
