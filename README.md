@@ -6,6 +6,7 @@ Exercice pour comprendre les tests unitaires avec **Jasmine**.
 
 Pour lancer le test
 * cloner le projet
+* cd testJasmineFibonacci
 * npm install
 * lancement du programme: npm run fibo
 * lancement des tests unitaires : npm test
